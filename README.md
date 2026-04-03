@@ -19,12 +19,12 @@
 - **Key Learnings:** CIA Triad, NIST Framework, Security Ethics, Historical Attacks.
 
 ### 📁 Module 2: Playbook for Incident Response & SIEM
-- **Status:** In Progress (68%) ⏳
+- **Status:** In Progress (72%) ⏳
 - **Key Learnings:** - Asset Management & Vulnerability assessment.
   - Using SIEM tools (Splunk & Chronicle) for threat detection.
 - **Deep Dive Reports | Rapports Approfondis:**
   - 🔍 [Technical: SIEM Dashboards & Logs](SIEM-Concepts.md)
-  - 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](Scenario-Analysis-DDoS.md)
+  - 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](Scenarios-Analysis-DDoS.md)
 
 ---
 
