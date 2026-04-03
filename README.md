@@ -25,7 +25,7 @@
   - Using SIEM tools (Splunk & Chronicle) for threat detection.
 - **Deep Dive Reports | Rapports Approfondis:**
   - 🔍 [Technical: SIEM Dashboards & Logs](SIEM-Concepts.md)
-  - 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Scenario-Analysis-DDoS.md)
+  - 🛡️ [Case Study: Analyzing a DDoS Attack Scenario](https://github.com/https://github.com/abunoman-cyber/Google-Cybersecurity-Professional-Certificate/blob/main/Scenario-Analysis-DDoS.md
 
 ---
 
