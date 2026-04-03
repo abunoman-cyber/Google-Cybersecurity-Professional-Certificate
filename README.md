@@ -20,7 +20,8 @@
 
 ### 📁 Module 2: Playbook for Incident Response & SIEM
 - **Status:** In Progress (72%) ⏳
-- **Key Learnings:** - Asset Management & Vulnerability assessment.
+- **Key Learnings:**
+  - Asset Management & Vulnerability assessment.
   - Using SIEM tools (Splunk & Chronicle) for threat detection.
 - **Deep Dive Reports | Rapports Approfondis:**
   - 🔍 [Technical: SIEM Dashboards & Logs](SIEM-Concepts.md)
