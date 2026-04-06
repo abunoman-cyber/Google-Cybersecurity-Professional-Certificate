@@ -18,4 +18,11 @@ This module focuses on the fundamental infrastructure that allows devices to com
 * **MAC vs IP Addressing:** Identifying devices vs. locating them on a network.
 
 ---
+
+### 📂 Quick Links to Course Content:
+* 📝 **Concept Notes:** [View Module Notes](./Module-Notes/01-Network-Architecture.md)
+* 🧪 **Hands-on Labs:** [View Technical Labs](./Technical-Labs/Lab-1-Network-Analysis.md)
+* 📁 **Case Studies:** [View NIST Incident Response](./Case-Studies/NIST-Incident-Response.md)
+
+---
 *Status: In Progress 🚀 (Last Updated: April 6, 2026)*
